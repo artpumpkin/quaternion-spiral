@@ -13,5 +13,4 @@ npm run build
 npm audit
 ```
 
-For portfolio browser tests, first run `npx playwright install chromium`.
 Report security issues privately as described in SECURITY.md.
