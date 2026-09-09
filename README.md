@@ -11,7 +11,7 @@ A small creative-coding study: an animated path around a sphere, built with
 - Apply the rotation through custom `Vector3` and `Quaternion` classes.
 - Draw the growing path in a Three.js scene with orbit and zoom controls.
 
-The repository keeps its original name, `threejs-loxodrome`. The implemented path
+Originally developed as `threejs-loxodrome`, the implemented path
 is a spherical spiral produced by linearly changing tilt and spin; it is not a
 constant-bearing navigational loxodrome. This is an educational visual experiment.
 
